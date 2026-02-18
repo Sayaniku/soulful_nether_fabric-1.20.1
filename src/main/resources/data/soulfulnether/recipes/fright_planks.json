@@ -4,11 +4,11 @@
   "group": "planks",
   "ingredients": [
     {
-      "tag": "soulfulnether:fright_stems"
+      "tag": "soulfulnether:fright_stem"
     }
   ],
   "result": {
     "item": "soulfulnether:fright_planks",
-    "count": 4
+    "count": 2
   }
 }
